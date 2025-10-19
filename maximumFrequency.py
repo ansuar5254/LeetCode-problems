@@ -13,3 +13,7 @@ def maxFrequencyElements(nums):
 number  = input("Enter the number separated by space: ")
 nums = number.split() 
 print(maxFrequencyElements(nums))
+
+
+
+       
